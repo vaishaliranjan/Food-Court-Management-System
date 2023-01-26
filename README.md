@@ -11,21 +11,16 @@ Food court  management system  can be used in food courts, specialty being that 
 
 - Menu based application, helps in maintaining food stall record.
 - ADMIN PORTAL
-<br>
-Can be accessed only after providing the login credentials.
-<br>
-It is used for managing the food stall portal.
-<br>
-	Allows adding, deleting or viewing the food stall details. 
-  <br>
+ 
+1. Can be accessed only after providing the login credentials.
+2. It is used for managing the food stall portal.
+3. Allows adding, deleting or viewing the food stall details. 
 - GUEST PORTAL 
-<br>
-It is used to view and search food stalls by way of various food choices. 
-<br>
-Each user allows its target users to perform various operation by selecting from the list of available options.
-<br>
-To provide a variety of food types to the customer. 
-<br>
+
+1. It is used to view and search food stalls by way of various food choices. 
+2. Each user allows its target users to perform various operation by selecting from the list of available options.
+3. To provide a variety of food types to the customer. 
+
 - To display, modify food stall details, food items and the price of each item chosen. 
 
 --- 
